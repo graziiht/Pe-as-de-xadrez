@@ -1,1 +1,1 @@
-# Pe-as-de-xadrez
+# Peças de xadrez
